@@ -1,0 +1,6 @@
+order_id,customer_name,email_address,phone_number,amount,order_date
+1001,John Doe,john.doe@example.com,9876543210,150.50,2026-06-15
+1002,Jane Smith,jane.smith@invalid-email,987654321,99.99,2026/06/16
+1003,Bob Johnson,bob@example.com,1234567890,-5.00,invalid_date
+1004,Alice Brown,,8888888888,250.00,17/06/2026
+1005,John Doe,john.doe@example.com,9876543210,150.50,2026-06-15
